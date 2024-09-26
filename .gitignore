@@ -1,0 +1,22 @@
+# Logs
+*.log
+# Dependency directory
+# Commenting this out is preferred by some people, see
+# https://www.npmjs.org/doc/misc/npm-faq.html#should-i-check-my-node_modules-folder-into-git-
+node_modules
+allure-report
+allure-results
+errorShots
+coverage
+tempDownload
+# Editor files
+.idea
+.vscode
+!.vscode/extensions.json
+yarn.lock
+.tmp
+tmp
+tests/reports
+tests/data
+tests/debugInfo
+
