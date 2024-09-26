@@ -2,6 +2,7 @@
 
 ***
 This project uses Cucumber,javascript and WebdriverIO to automate testing in a web application. The project structure is designed to facilitate the scalability and maintenance of the tests.
+It use the POM as a patter desing
 
 ## Prerequisites
 
@@ -12,7 +13,7 @@ Make sure you have Node. js and npm installed on your machine. You can download 
 1. Clone this repository:
 
 ```bash
-git clone https://github.com.mcas.ms/gorefabrics/drupal-automated-testing-tool-fabrics
+git clone https://github.com/mcamisr/hipertextual.git
 git cd your-project
 ```
 
